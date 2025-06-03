@@ -29,7 +29,7 @@ Este é um projeto de um sistema bancário simples desenvolvido em Python, utili
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/adilsonssdev/sistema-bancario
+   git clone https://github.com/adilsonssdev/Sistema_Banacrio_DIO
    cd sistema-bancario
    ```
 
